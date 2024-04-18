@@ -1,0 +1,6 @@
+{
+    "subscription_id": "your_subscription_id",
+    "resource_group": "machine-learning-model-deployment",
+    "workspace_name": "diabetec-prediction-model-ws",
+    "region": "centralindia"
+}
